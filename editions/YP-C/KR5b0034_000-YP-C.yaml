@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0034/YP-C/v1/juan/0
+seq: 0
+front:
+  text: 太上靈寶智慧觀身經靜觀眞人於思微中觀身實相深達智慧了見四大六種根識及五聚蔭五印世法皆悉空寂入無相門所謂外想內想若生想若滅想了了照盡無淨穢法無生滅法如是盡處亦無所盡究皆是空空竟升玄何以故內想者名境觀空是空亦空空空亦空空無分别空故是無分别空亦復皆空空無二致故言其盡若善男女照法空性無起滅心無憍慢心無恐怖心無憎愛心能於世間免種種苦所謂生死别苦鬼神害苦官私口舌苦水火刀兵饑寒苦皆悉免離如是盡利益非於一人二人必於無量無邊無量數人非一天二天無量無邊無量數天其功德力不可思議是故此說名爲解脫名利益義名無量義名第一義如是諸義若書若寫若讀若誦若解說是爲入智慧門遊智慧室坐智慧牀餐智慧食得智慧眞相之體卽於爾時說智慧頌曰智慧起本無朗朗照十方結空峙玄霄
+  hash: sha256:e51ab9d569ad882d1e4837b795c0806a4ff5826e582d274a01d3786a1c6bba10
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0034_YP-C_04fangji-06-0081a, image: JY043/04fangji-06-0081a.png}
+body:
+  text: 諸天挹流芳其妙難思議虛感眞實通有有有非有無無無不無智慧常觀身學道之所先渺渺入玄津自然錄我神天尊常擁護魔王衞寶言晃晃金剛軀超超太上仙智慧生戒根眞道戒爲主三寶由是興高仙所崇受汎此不死舟倐忽濟大有當此說戒時諸天來稽首
+  hash: sha256:9737073b6b859da29c6cfbe4e6d62f7e586607cc4718f4885da0c9743823a2f4
+metadata:
+  title: 太上靈寶智慧觀身經
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-28 23:47:47.126846'
+  source:
+    repository: kanripo
+    path: KR5b0034/KR5b0034_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:787d8c15a898f44cc33573af970e77211398599b69046c50d2254ff5e36ee540

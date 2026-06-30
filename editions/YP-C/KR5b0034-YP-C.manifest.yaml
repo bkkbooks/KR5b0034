@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0034/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5b0034/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶智慧觀身經
+  date: '2015-08-28 23:47:47.126846'
+  source:
+    repository: kanripo
+    path: KR5b0034
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0034_000-YP-C.yaml, hash: 'sha256:787d8c15a898f44cc33573af970e77211398599b69046c50d2254ff5e36ee540'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0034_000-YP-C.markers.yaml, hash: 'sha256:ecaad10a31e12e46b8adeb5b4709fb7952659fbd8fec69b08acd0dbb6fbbbfcf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0034_YP-C_04fangji-06-0081a
+    span:
+    - body
+    - 0
+    - 105
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:2ab913cf6d84ac8ab9ec1ea9539c63631c60c98c224fbfe318952097c9f597a4

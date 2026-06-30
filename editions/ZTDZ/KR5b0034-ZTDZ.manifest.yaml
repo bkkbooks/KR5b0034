@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0034/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0034/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶智慧觀身經
+  date: '2015-08-28 23:47:47.126846'
+  source:
+    repository: kanripo
+    path: KR5b0034
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0034_000-ZTDZ.yaml, hash: 'sha256:7b85635284af5dd59cab7908d7803d67963f850607d88f5807f4834034aa658b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0034_000-ZTDZ.markers.yaml, hash: 'sha256:1a3c67514231a614e6c700f63a762eb9825102cd271244cd56736c3da67a31e7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0034_SJB_000-060181b
+    span:
+    - body
+    - 0
+    - 429
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:1811afbdccf6f266c74737b7821b9b19fd4a4ad09763386274254b9448f29d0f
