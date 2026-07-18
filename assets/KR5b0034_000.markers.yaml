@@ -226,6 +226,7 @@ markers:
   - {type: variant, offset: 419, length: 10, content: 太上靈寳智慧觀身經終, YP-C: ''}
   - {type: substitution, offset: 422, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: punctuation, offset: 428, content: (, id: KR5b0034_krp_000-bkkpn1}
+  - {type: voice, offset: 428, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 429, content: ), id: KR5b0034_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 429, content: '
 
@@ -265,4 +266,4 @@ markers:
 
       ', id: KR5b0034_krp_000-bkkkrnewl44}
   back: []
-hash: sha256:71b3a8329c3cd9c9566fafec504309a5d6a96e4d6ba9b72803eb3c86f22d157d
+hash: sha256:8a4ecfb354100c55e05cd9ccc4153d71a2b9500b2e84daba0eb18877d117dc33
